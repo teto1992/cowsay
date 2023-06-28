@@ -1,2 +1,2 @@
 #!/bin/bash
-figlet “481183” 
+figlet 481183
